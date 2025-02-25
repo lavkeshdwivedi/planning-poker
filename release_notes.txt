@@ -1,0 +1,8 @@
+Version: 1.0.0
+Release Title: Planning Poker - Production Ready Release
+Release Date: 2026-04-05
+
+- Initial production ready version of Planning Poker.
+- Features: User authentication, game creation, and player management.
+- Improvements from beta testing based on user feedback.
+- Documentation updated.

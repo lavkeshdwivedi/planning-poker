@@ -1,0 +1,1 @@
+A real-time Planning Poker application for agile teams. Single HTML file powered by Firebase Realtime Database with no build step required.
