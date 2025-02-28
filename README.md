@@ -24,7 +24,7 @@
 
 #### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/planning-poker.git
+git clone https://github.com/lavkeshdwivedi/planningPoker.git
 cd planning-poker
 ```
 
