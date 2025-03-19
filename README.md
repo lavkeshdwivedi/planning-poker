@@ -7,7 +7,6 @@
 ✅ **Real-time Voting:** Instant updates using WebSockets (Socket.io)  
 ✅ **Multi-User Support:** Create rooms and invite team members  
 ✅ **Editable Votes:** Change your vote before revealing  
-✅ **Agreement Animation:** Fun animation when all users vote the same  
 ✅ **Mobile-Friendly UI:** Responsive design with Tailwind CSS  
 ✅ **Easy Deployment:** Works on any Node.js hosting  
 
